@@ -1,0 +1,2 @@
+[2026-10-08 22:32:51] local.INFO: Transfert employé {"employee_id":1,"from":4,"to":2,"by":2} 
+[2026-10-08 22:33:13] local.INFO: Employé archivé {"employee_id":1,"status":"demission","by":2} 

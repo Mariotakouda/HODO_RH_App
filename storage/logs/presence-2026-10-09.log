@@ -1,0 +1,2 @@
+[2026-10-09 20:36:08] local.INFO: check_in success {"employee_id":5,"user_id":7,"presence_id":3,"reason":null,"ip":"127.0.0.1","meta":{"status":"late","time":"20:36:08"}} 
+[2026-10-09 20:39:40] local.INFO: check_out success {"employee_id":5,"user_id":7,"presence_id":3,"reason":null,"ip":"127.0.0.1","meta":{"total_hours":0.06,"time":"20:39:40"}} 
